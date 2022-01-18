@@ -10,11 +10,13 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 
 ## Preview
 
-
+### Homepage
 !["Homepage"](https://github.com/anastassiatsv/jungle-rails/blob/master/docs/homepage.png)
 
+### Shopping-cart
 !["Shopping-cart"](https://github.com/anastassiatsv/jungle-rails/blob/master/docs/my_cart.png)
 
+### Admin-page
 !["Admin page"](https://github.com/anastassiatsv/jungle-rails/blob/master/docs/admin_products.png)
 
 
