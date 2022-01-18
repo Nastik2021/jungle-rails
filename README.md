@@ -11,11 +11,11 @@ A mini e-commerce application built with Rails 4.2 for purposes of teaching Rail
 ## Preview
 
 
-![Homepage]()
+!["Homepage"]()
 
-![Shopping-cart]()
+!["Shopping-cart"]()
 
-![Admin page]()
+!["Admin page"]()
 
 
 
